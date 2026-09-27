@@ -685,7 +685,7 @@ The objective is to help an analyst answer:
 
 **Problem Statement:** SIH26160  
 **Title:** AI-Powered IPsec VPN Protocol Analyzer and Security Assessment Framework  
-**Team:** CodeCraft  
+**Team:** Code craftss  
 **Project:** NetSentry AI
 
 ### Core Deliverables
@@ -717,7 +717,7 @@ The objective is to help an analyst answer:
 
 ---
 
-# 👥 Team CodeCraft
+# 👥 Team Code craftss
 
 Built for **Smart India Hackathon 2026**.
 
